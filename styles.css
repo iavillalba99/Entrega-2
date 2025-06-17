@@ -17,7 +17,7 @@
 body {
     font-family: 'Roboto', sans-serif;
     overflow-x: hidden;
-    background-image:linear-gradient(rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.637)), url('/backgrounds/background-mobile.jpeg');
+    background-image:linear-gradient(rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.637)), url("backgrounds/background-mobile.jpeg");
     background-size: cover;
     background-position: center;
 }
@@ -267,7 +267,7 @@ img {
 }
  /* LOGIN */
  .login-body {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.637),rgba(0, 0, 0, 0.2)),url(/backgrounds/background-mobile.jpeg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.637),rgba(0, 0, 0, 0.2)),url("backgrounds/background-mobile.jpeg");
     font-family: 'Roboto', sans-serif;
     display: flex;
     align-items: center;
@@ -778,7 +778,7 @@ img {
 @media (min-width: 768px) {
 
 body {
-        background-image: linear-gradient(rgba(0, 0, 0, 0.637),rgba(0, 0, 0, 0.2)),url(/backgrounds/background-escritorio.png);
+        background-image: linear-gradient(rgba(0, 0, 0, 0.637),rgba(0, 0, 0, 0.2)),url("backgrounds/background-escritorio.png");
         background-size: cover;
         background-position: center;
     }
@@ -991,7 +991,7 @@ body {
 }
 
 .g2news-section {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.637),rgba(0, 0, 0, 0.637)),url(/news/g2news/bg-g2.png);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.637),rgba(0, 0, 0, 0.637)),url("/news/g2news/bg-g2.png");
     background-size: cover;
     background-position: center;
     grid-area: news;
@@ -1017,7 +1017,7 @@ body {
 
 
 .patch__news-section {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.637),rgba(0, 0, 0, 0.637)),url(/news/patchnews/patch-news.png);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.637),rgba(0, 0, 0, 0.637)),url("/news/patchnews/patch-news.png");
     background-size: cover;
     background-position: center;
     grid-area: news;
@@ -1068,7 +1068,7 @@ body {
 /* login */
 
 .login-body {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.637),rgba(0, 0, 0, 0.2)),url(/backgrounds/background-escritorio.png);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.637),rgba(0, 0, 0, 0.2)),url("backgrounds/background-escritorio.png");
 
 }
 }
