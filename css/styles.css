@@ -270,7 +270,7 @@ img {
 }
  /* LOGIN */
  .login-body {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.637),rgba(0, 0, 0, 0.2)),url("/backgrounds/background-mobile.jpeg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.637),rgba(0, 0, 0, 0.2)),url("../backgrounds/background-mobile.jpeg");
     font-family: 'Roboto', sans-serif;
     display: flex;
     align-items: center;
@@ -853,7 +853,7 @@ img {
 @media (min-width: 768px) {
 
 body {
-        background-image: linear-gradient(rgba(0, 0, 0, 0.637),rgba(0, 0, 0, 0.2)),url("/backgrounds/background-escritorio.png");
+        background-image: linear-gradient(rgba(0, 0, 0, 0.637),rgba(0, 0, 0, 0.2)),url("../backgrounds/background-escritorio.png");
         background-size: cover;
         background-position: center;
     }
