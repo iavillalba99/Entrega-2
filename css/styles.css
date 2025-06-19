@@ -84,7 +84,7 @@ img {
     position: absolute;
     min-width: 490px;
     width: 100%;
-    padding: 140px 0px 140px 0px;
+    padding: 140px 20px 140px 0px;
     display: grid;
     align-content:center ;
     gap: 2em;
