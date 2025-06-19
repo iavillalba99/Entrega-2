@@ -20,7 +20,7 @@ a {
 body {
     font-family: 'Roboto', sans-serif;
     overflow-x: hidden;
-    background-image:linear-gradient(rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.637)), url("/backgrounds/background-mobile.jpeg");
+    background-image:linear-gradient(rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.637)), url("../backgrounds/background-mobile.jpeg");
     background-size: cover;
     background-position: center;
 }
