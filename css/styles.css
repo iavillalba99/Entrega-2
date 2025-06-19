@@ -80,7 +80,7 @@ img {
 }
 .nav__links {
     background-color: #f2f2f2;
-    margin-top: 28rem;
+    margin-top: 13rem;
     position: absolute;
     min-width: 490px;
     width: 100%;
@@ -1066,7 +1066,7 @@ body {
 }
 
 .g2news-section {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.637),rgba(0, 0, 0, 0.637)),url("/news/g2news/bg-g2.png");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.637),rgba(0, 0, 0, 0.637)),url("../news/g2news/bg-g2.png");
     background-size: cover;
     background-position: center;
     grid-area: news;
@@ -1092,7 +1092,7 @@ body {
 
 
 .patch__news-section {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.637),rgba(0, 0, 0, 0.637)),url("/news/patchnews/patch-news.png");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.9),rgba(0, 0, 0, 0.9)),url("../news/patchnews/patch-news.png");
     background-size: cover;
     background-position: center;
     grid-area: news;
